@@ -1,0 +1,12 @@
+/IntercomTest/nbproject/private/
+/IntercomTest/build/
+/IntercomTest/nbproject/private/
+/IntercomTest/dist/
+/IntercomTest/build/
+/IntercomTest/dist/
+/IntercomTest/lib/impl/
+.DS_Store
+IntercomTest/.cn1/.lock
+**/*.jar
+**/*.zip
+IntercomTest/native/internal_tmp/
